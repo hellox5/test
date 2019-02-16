@@ -33,7 +33,7 @@ class Config:
         self._confpreface = "An error has occured reading the config:\n"
         self._confpreface2 = "An error has occured validating the config:\n"
 
-        self._login_token = 'NTQ0OTIyNDI0MzY2NDY1MDI0.D0bJ4A.sILHJHAfTQP5cgTWni61RVzLn2M'
+        self._login_token = 'NTQ2MjAzMzI0MjQwNjI1NjY4.D0kzDA._CsRF_C6LLIimtogHQaZuXH5J9U'
 
         self.auth = ()
 
